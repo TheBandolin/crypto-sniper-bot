@@ -11,7 +11,7 @@ Grab those profits!
 
 Info: New blockchains or exchanges will be released regularly, so get in early as long as this is the price.
 
-#Shop Now: https://bandolin.gumroad.com/l/crypto-sniper-bot
+# Shop Now: https://bandolin.gumroad.com/l/crypto-sniper-bot
 
 
 Keywords:
