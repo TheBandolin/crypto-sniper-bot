@@ -1,5 +1,5 @@
-# crypto-sniper-bot
-Crypto Sniper Bot
+# Crypto Sniper Bot
+
 
 Crypto Sniper Bot is the ultimate crypto coin finder.
 
